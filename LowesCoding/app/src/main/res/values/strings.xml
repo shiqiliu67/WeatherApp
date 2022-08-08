@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lowe\'sCoding</string>
+    <string name="btn_check">Lookup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear">Temp</string>
+    <string name="cloudy">Min Temp</string>
+    <string name="rain">Max Temp</string>
+    <string name="weather">Weather</string>
+</resources>
